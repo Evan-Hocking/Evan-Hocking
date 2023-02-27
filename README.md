@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Evan-Hocking
 - 👀 I’m interested in Computers and Music
-- Languages: Python, PHP, HTML
+- Languages: Python, PHP, HTML, Java, C
 - 📫 How to reach me: [Twitter @HocksEvan](https://twitter.com/HocksEvan)
 
 <!---
